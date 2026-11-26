@@ -1,5 +1,7 @@
 # Pro Studio
 
+**[English](README.en.md)** · 繁體中文
+
 一個 Windows 桌面工作台，把 Google AI Pro 訂閱裡的幾個服務收進同一個視窗：**Gemini、Flow、Colab、Cloud Console、NotebookLM、AI Studio**。登入一次，全部通用；三個 Google 帳號一鍵切換。
 
 > 不是 Google 官方產品，只是一個包了 Edge WebView2 的原生外殼。所有頁面都是 Google 官方網站。
